@@ -23,7 +23,7 @@ SkyShield is a service that helps Bluesky users curate their feeds by providing 
 To start using SkyShield, follow these simple steps:
 
 1. **Subscribe to the Block Lists**  
-   Head over to the [SkyShield Profile on Bluesky](https://bsky.app/profile/did:plc:mpkrd6tr4hijucc2vg52onlr/lists/3lar6svb4gs23) and subscribe to the block lists you want to use. Lists available:
+   Head over to the [SkyShield Profile on Bluesky](https://bsky.app/profile/skyshield.fairuse.org) and subscribe to the block lists you want to use. Lists available:
    - **Politics**: Blocks political content.
    - **NSFW**: Filters out explicit content.
    - **Spam**: Removes unwanted spam profiles and posts.
